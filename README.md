@@ -10,6 +10,6 @@
   - Evaluated model performance using metrics such as R-squared and Mean Absolute Error (MAE), achieving an R-squared value of 0.899 on the test dataset.
   - Documented the entire project, including data cleaning, exploratory analysis, model building, and evaluation, for reproducibility and future reference.
   
-- **Technologies** Used:Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels, GitHub
+- **Technologies** Used:Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels
 
 - Outcome: Successfully created a robust predictive model that can assist a car company in understanding the factors influencing car prices and making informed business decisions.
